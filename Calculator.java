@@ -176,8 +176,8 @@ class Calculator extends JFrame implements ActionListener {
 					te = Double.parseDouble(s0) / Double.parseDouble(s2);
 
 				s0 = Double.toString(te); // convert the result to string
-				s1 = s; // place the operator
-				s2 = ""; // creating space for next operand
+				s1 = s; // placing the selected operator for next operation
+				s2 = ""; // creating space for entering the next operand
 			}
 
 			l.setText(s0 + s1 + s2);  // displaying the end result 
