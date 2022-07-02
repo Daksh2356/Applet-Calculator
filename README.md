@@ -1,2 +1,2 @@
 # Applet-Calculator
-It's a calculator having all the basic features such as digits from 0-9 , arithmetic operational symbols such as "+", "-", "*", "/" etc. and functions such as addition, subtraction, multiplication and division. It uses the concept of Light- weighted programming and event- driven programming with the help of AWT and Swing packages of Java Development Kit (JDK/SDK). It has beautiful graphics with apt background and foreground colors and functioning buttons!!
+A calculator built using the concept of Light- weighted programming and Event- driven programming with the help of AWT and Swing packages of JAVA. It has beautiful graphics with apt background and foreground colors along and helps you to evaluate any arithmetic operation with use of buttons !!
